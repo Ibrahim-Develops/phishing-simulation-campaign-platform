@@ -1,0 +1,10 @@
+[2025-12-04 01:47:46] [TEMPLATE_ADDED] Template 'Password Reset' added.
+[2025-12-04 01:47:46] [TEMPLATE_ADDED] Template 'Bank Alert' added.
+[2025-12-04 01:47:46] [USERS_LOADED] 5 users loaded.
+[2025-12-04 01:47:46] [CAMPAIGN_START] Campaign started using template 'Bank Alert'.
+[2025-12-04 01:47:46] [EMAIL_SENT] Sent to ali@example.com, Action: CLICKED
+[2025-12-04 01:47:47] [EMAIL_SENT] Sent to ahmed@example.com, Action: IGNORED
+[2025-12-04 01:47:47] [EMAIL_SENT] Sent to fatima@example.com, Action: IGNORED
+[2025-12-04 01:47:48] [EMAIL_SENT] Sent to sara@example.com, Action: IGNORED
+[2025-12-04 01:47:48] [EMAIL_SENT] Sent to usman@example.com, Action: CLICKED
+[2025-12-04 01:47:48] [CAMPAIGN_END] Campaign completed.
