@@ -1,10 +1,3 @@
-Here is a **full‑fledge professional GitHub README.md** for your
-**Phishing Simulation Campaign Platform** 🚀
-
-You can directly paste this into your GitHub repo.
-
----
-
 # 🛡️ **Phishing Simulation Campaign Platform**
 
 The **Phishing Simulation Campaign Platform** is a cybersecurity training and awareness system designed to evaluate how users respond to phishing emails in a safe, controlled environment. It allows organizations and security teams to create phishing templates, send simulated phishing campaigns, record user actions, and analyze security awareness levels—all using a modular Python architecture.
